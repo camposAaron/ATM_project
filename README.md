@@ -1,2 +1,2 @@
 # ATM_project
-cajeron automatico , aplicacion consola java
+cajero automatico , aplicacion consola java
