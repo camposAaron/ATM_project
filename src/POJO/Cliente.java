@@ -77,10 +77,10 @@ public class Cliente {
         this.id = id;
     }
 
-    @Override
+   /* @Override
     public String toString() {
         return "Cliente{" + "id=" + id + ", numeroCuenta=" + numeroCuenta + ", PIN=" + PIN + ", nombre=" + nombre + ", apellido=" + apellido  + '}';
-    }
+    }*/
     
     
        
