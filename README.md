@@ -1,2 +1,3 @@
 # ATM_project
-cajero automatico , aplicacion consola java
+Simple ATM console application made in Java
+
